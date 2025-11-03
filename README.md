@@ -6,6 +6,6 @@ We fine-tuned the model on a cloud server, then uploaded the trained adapters to
 
 Team Member: lz3247, lz3408, zh3199
 
-Report：
+Report：https://drive.google.com/file/d/1P_jXcCwymZbKYCGnxN9ATUXonm87QeLN/view?usp=drive_link
 
 Model's weight：https://drive.google.com/file/d/17YxW6RSpWVpGmRVnkZfT6Tx741Z0hXQZ/view?usp=drive_link
